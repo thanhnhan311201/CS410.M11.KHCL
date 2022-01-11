@@ -1,0 +1,650 @@
+|------------------------EVOLUTIONARY HISTORY RECORD------------------------|
+|-----------------------------------BEGIN-----------------------------------|
+
+
+- Evaluation = Onemax, Crossover = One-point Crossover
+	- Problem size = 10
+		1-th bisection
+			MRPS: 30
+			Average number of evaluations each bisection: 1167.0
+		2-th bisection
+			MRPS: 34
+			Average number of evaluations each bisection: 1564.0
+		3-th bisection
+			MRPS: 28
+			Average number of evaluations each bisection: 676.0
+		4-th bisection
+			MRPS: 44
+			Average number of evaluations each bisection: 1839.2
+		5-th bisection
+			MRPS: 44
+			Average number of evaluations each bisection: 1751.2
+		6-th bisection
+			MRPS: 36
+			Average number of evaluations each bisection: 659.6
+		7-th bisection
+			MRPS: 28
+			Average number of evaluations each bisection: 587.6
+		8-th bisection
+			MRPS: 36
+			Average number of evaluations each bisection: 1005.43
+		9-th bisection
+			MRPS: 32
+			Average number of evaluations each bisection: 810.0
+		10-th bisection
+			MRPS: 24
+			Average number of evaluations each bisection: 344.67
+		Mean MRPS: 33.6
+		Std MRPS: 6.31
+		Mean number of evaluations: 1040.2
+		Std number of evaluations: 495.58
+
+	- Problem size = 20
+		1-th bisection
+			MRPS: 56
+			Average number of evaluations each bisection: 2639.0
+		2-th bisection
+			MRPS: 104
+			Average number of evaluations each bisection: 6229.6
+		3-th bisection
+			MRPS: 80
+			Average number of evaluations each bisection: 3301.71
+		4-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 3027.2
+		5-th bisection
+			MRPS: 80
+			Average number of evaluations each bisection: 3250.29
+		6-th bisection
+			MRPS: 60
+			Average number of evaluations each bisection: 3570.0
+		7-th bisection
+			MRPS: 80
+			Average number of evaluations each bisection: 2577.6
+		8-th bisection
+			MRPS: 72
+			Average number of evaluations each bisection: 2606.67
+		9-th bisection
+			MRPS: 64
+			Average number of evaluations each bisection: 1515.0
+		10-th bisection
+			MRPS: 72
+			Average number of evaluations each bisection: 3001.71
+		Mean MRPS: 76.4
+		Std MRPS: 14.36
+		Mean number of evaluations: 3171.5
+		Std number of evaluations: 1152.42
+
+	- Problem size = 40
+		1-th bisection
+			MRPS: 272
+			Average number of evaluations each bisection: 25024.0
+		2-th bisection
+			MRPS: 240
+			Average number of evaluations each bisection: 22440.0
+		3-th bisection
+			MRPS: 224
+			Average number of evaluations each bisection: 20488.0
+		4-th bisection
+			MRPS: 272
+			Average number of evaluations each bisection: 25051.2
+		5-th bisection
+			MRPS: 208
+			Average number of evaluations each bisection: 20779.2
+		6-th bisection
+			MRPS: 224
+			Average number of evaluations each bisection: 12306.67
+		7-th bisection
+			MRPS: 224
+			Average number of evaluations each bisection: 16458.0
+		8-th bisection
+			MRPS: 240
+			Average number of evaluations each bisection: 22728.0
+		9-th bisection
+			MRPS: 240
+			Average number of evaluations each bisection: 22440.0
+		10-th bisection
+			MRPS: 272
+			Average number of evaluations each bisection: 25377.6
+		Mean MRPS: 241.6
+		Std MRPS: 22.0
+		Mean number of evaluations: 21309.1
+		Std number of evaluations: 3930.21
+
+	- Problem size = 80
+		1-th bisection
+			MRPS: 832
+			Average number of evaluations each bisection: 118726.4
+		2-th bisection
+			MRPS: 1088
+			Average number of evaluations each bisection: 150035.2
+		3-th bisection
+			MRPS: 640
+			Average number of evaluations each bisection: 23328.0
+		4-th bisection
+			MRPS: 448
+			Average number of evaluations each bisection: 17056.0
+		5-th bisection
+			MRPS: 640
+			Average number of evaluations each bisection: 79872.0
+		6-th bisection
+			MRPS: 896
+			Average number of evaluations each bisection: 51584.0
+		7-th bisection
+			MRPS: 896
+			Average number of evaluations each bisection: 42709.33
+		8-th bisection
+			MRPS: 960
+			Average number of evaluations each bisection: 129696.0
+		9-th bisection
+			MRPS: 512
+			Average number of evaluations each bisection: 44320.0
+		10-th bisection
+			MRPS: 832
+			Average number of evaluations each bisection: 122553.6
+		Mean MRPS: 774.4
+		Std MRPS: 195.07
+		Mean number of evaluations: 77987.9
+		Std number of evaluations: 46140.44
+
+	- Problem size = 160
+		1-th bisection
+			MRPS: 2816
+			Average number of evaluations each bisection: 598118.4
+		2-th bisection
+			MRPS: 2816
+			Average number of evaluations each bisection: 597555.2
+		3-th bisection
+			MRPS: 4352
+			Average number of evaluations each bisection: 910003.2
+		4-th bisection
+			MRPS: 3072
+			Average number of evaluations each bisection: 174592.0
+		5-th bisection
+			MRPS: 2304
+			Average number of evaluations each bisection: 130560.0
+		6-th bisection
+			MRPS: 4352
+			Average number of evaluations each bisection: 889113.6
+		7-th bisection
+			MRPS: 7680
+			Average number of evaluations each bisection: 1539072.0
+		8-th bisection
+			MRPS: 2048
+			Average number of evaluations each bisection: 312137.14
+		9-th bisection
+			MRPS: 3328
+			Average number of evaluations each bisection: 695552.0
+		10-th bisection
+			MRPS: 3584
+			Average number of evaluations each bisection: 309504.0
+		Mean MRPS: 3635.2
+		Std MRPS: 1530.87
+		Mean number of evaluations: 615620.6
+		Std number of evaluations: 404579.16
+
+	Saving...
+	Saved record!
+
+- Evaluation = Onemax, Crossover = Uniform Crossover
+	- Problem size = 10
+		1-th bisection
+			MRPS: 20
+			Average number of evaluations each bisection: 632.0
+		2-th bisection
+			MRPS: 26
+			Average number of evaluations each bisection: 1040.0
+		3-th bisection
+			MRPS: 24
+			Average number of evaluations each bisection: 220.0
+		4-th bisection
+			MRPS: 20
+			Average number of evaluations each bisection: 645.75
+		5-th bisection
+			MRPS: 16
+			Average number of evaluations each bisection: 282.8
+		6-th bisection
+			MRPS: 22
+			Average number of evaluations each bisection: 847.0
+		7-th bisection
+			MRPS: 16
+			Average number of evaluations each bisection: 378.0
+		8-th bisection
+			MRPS: 16
+			Average number of evaluations each bisection: 182.0
+		9-th bisection
+			MRPS: 22
+			Average number of evaluations each bisection: 875.6
+		10-th bisection
+			MRPS: 20
+			Average number of evaluations each bisection: 162.0
+		Mean MRPS: 20.2
+		Std MRPS: 3.28
+		Mean number of evaluations: 526.3
+		Std number of evaluations: 306.65
+
+	- Problem size = 20
+		1-th bisection
+			MRPS: 28
+			Average number of evaluations each bisection: 1337.56
+		2-th bisection
+			MRPS: 24
+			Average number of evaluations each bisection: 319.0
+		3-th bisection
+			MRPS: 24
+			Average number of evaluations each bisection: 396.0
+		4-th bisection
+			MRPS: 32
+			Average number of evaluations each bisection: 1632.0
+		5-th bisection
+			MRPS: 52
+			Average number of evaluations each bisection: 2870.4
+		6-th bisection
+			MRPS: 32
+			Average number of evaluations each bisection: 765.0
+		7-th bisection
+			MRPS: 30
+			Average number of evaluations each bisection: 1629.0
+		8-th bisection
+			MRPS: 36
+			Average number of evaluations each bisection: 1859.8
+		9-th bisection
+			MRPS: 34
+			Average number of evaluations each bisection: 1870.0
+		10-th bisection
+			MRPS: 40
+			Average number of evaluations each bisection: 804.0
+		Mean MRPS: 33.2
+		Std MRPS: 7.86
+		Mean number of evaluations: 1348.1
+		Std number of evaluations: 749.05
+
+	- Problem size = 40
+		1-th bisection
+			MRPS: 52
+			Average number of evaluations each bisection: 4082.0
+		2-th bisection
+			MRPS: 56
+			Average number of evaluations each bisection: 4170.4
+		3-th bisection
+			MRPS: 56
+			Average number of evaluations each bisection: 2360.8
+		4-th bisection
+			MRPS: 52
+			Average number of evaluations each bisection: 4201.6
+		5-th bisection
+			MRPS: 56
+			Average number of evaluations each bisection: 1040.0
+		6-th bisection
+			MRPS: 72
+			Average number of evaluations each bisection: 1881.33
+		7-th bisection
+			MRPS: 56
+			Average number of evaluations each bisection: 4295.2
+		8-th bisection
+			MRPS: 52
+			Average number of evaluations each bisection: 4217.2
+		9-th bisection
+			MRPS: 68
+			Average number of evaluations each bisection: 5276.8
+		10-th bisection
+			MRPS: 60
+			Average number of evaluations each bisection: 4932.0
+		Mean MRPS: 58.0
+		Std MRPS: 6.51
+		Mean number of evaluations: 3645.4
+		Std number of evaluations: 1318.75
+
+	- Problem size = 80
+		1-th bisection
+			MRPS: 88
+			Average number of evaluations each bisection: 9636.0
+		2-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 9970.4
+		3-th bisection
+			MRPS: 88
+			Average number of evaluations each bisection: 10058.4
+		4-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 7542.86
+		5-th bisection
+			MRPS: 80
+			Average number of evaluations each bisection: 4406.4
+		6-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 8338.0
+		7-th bisection
+			MRPS: 104
+			Average number of evaluations each bisection: 11440.0
+		8-th bisection
+			MRPS: 104
+			Average number of evaluations each bisection: 11616.8
+		9-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 5350.4
+		10-th bisection
+			MRPS: 88
+			Average number of evaluations each bisection: 10120.0
+		Mean MRPS: 93.6
+		Std MRPS: 7.2
+		Mean number of evaluations: 8847.6
+		Std number of evaluations: 2308.14
+
+	- Problem size = 160
+		1-th bisection
+			MRPS: 144
+			Average number of evaluations each bisection: 6052.0
+		2-th bisection
+			MRPS: 176
+			Average number of evaluations each bisection: 28195.2
+		3-th bisection
+			MRPS: 160
+			Average number of evaluations each bisection: 6192.0
+		4-th bisection
+			MRPS: 176
+			Average number of evaluations each bisection: 28318.4
+		5-th bisection
+			MRPS: 208
+			Average number of evaluations each bisection: 32448.0
+		6-th bisection
+			MRPS: 192
+			Average number of evaluations each bisection: 27561.6
+		7-th bisection
+			MRPS: 160
+			Average number of evaluations each bisection: 23112.0
+		8-th bisection
+			MRPS: 240
+			Average number of evaluations each bisection: 37128.0
+		9-th bisection
+			MRPS: 144
+			Average number of evaluations each bisection: 13804.0
+		10-th bisection
+			MRPS: 176
+			Average number of evaluations each bisection: 27684.8
+		Mean MRPS: 177.6
+		Std MRPS: 28.13
+		Mean number of evaluations: 23049.4
+		Std number of evaluations: 10203.8
+
+	Saving...
+	Saved record!
+
+- Evaluation = Concatenated Trap-5, Crossover = One-point Crossover
+	- Problem size = 10
+		1-th bisection
+			MRPS: 128
+			Average number of evaluations each bisection: 2520.0
+		2-th bisection
+			MRPS: 160
+			Average number of evaluations each bisection: 4296.0
+		3-th bisection
+			MRPS: 104
+			Average number of evaluations each bisection: 5002.4
+		4-th bisection
+			MRPS: 96
+			Average number of evaluations each bisection: 2323.2
+		5-th bisection
+			MRPS: 88
+			Average number of evaluations each bisection: 4206.4
+		6-th bisection
+			MRPS: 144
+			Average number of evaluations each bisection: 5651.56
+		7-th bisection
+			MRPS: 112
+			Average number of evaluations each bisection: 1941.33
+		8-th bisection
+			MRPS: 64
+			Average number of evaluations each bisection: 360.0
+		9-th bisection
+			MRPS: 88
+			Average number of evaluations each bisection: 4048.0
+		10-th bisection
+			MRPS: 104
+			Average number of evaluations each bisection: 4940.0
+		Mean MRPS: 108.8
+		Std MRPS: 27.06
+		Mean number of evaluations: 3528.7
+		Std number of evaluations: 1581.66
+
+	- Problem size = 20
+		1-th bisection
+			MRPS: 384
+			Average number of evaluations each bisection: 6160.0
+		2-th bisection
+			MRPS: 288
+			Average number of evaluations each bisection: 13794.29
+		3-th bisection
+			MRPS: 288
+			Average number of evaluations each bisection: 18795.2
+		4-th bisection
+			MRPS: 240
+			Average number of evaluations each bisection: 16368.0
+		5-th bisection
+			MRPS: 352
+			Average number of evaluations each bisection: 25062.4
+		6-th bisection
+			MRPS: 192
+			Average number of evaluations each bisection: 5456.0
+		7-th bisection
+			MRPS: 288
+			Average number of evaluations each bisection: 16490.0
+		8-th bisection
+			MRPS: 416
+			Average number of evaluations each bisection: 28620.8
+		9-th bisection
+			MRPS: 256
+			Average number of evaluations each bisection: 2160.0
+		10-th bisection
+			MRPS: 416
+			Average number of evaluations each bisection: 26582.4
+		Mean MRPS: 312.0
+		Std MRPS: 72.71
+		Mean number of evaluations: 15948.7
+		Std number of evaluations: 8751.79
+
+	- Problem size = 40
+		1-th bisection
+			MRPS: 1088
+			Average number of evaluations each bisection: 104230.4
+		2-th bisection
+			MRPS: 896
+			Average number of evaluations each bisection: 82784.0
+		3-th bisection
+			MRPS: 704
+			Average number of evaluations each bisection: 71596.8
+		4-th bisection
+			MRPS: 896
+			Average number of evaluations each bisection: 68744.0
+		5-th bisection
+			MRPS: 768
+			Average number of evaluations each bisection: 68600.89
+		6-th bisection
+			MRPS: 704
+			Average number of evaluations each bisection: 81312.0
+		7-th bisection
+			MRPS: 832
+			Average number of evaluations each bisection: 88108.8
+		8-th bisection
+			MRPS: 640
+			Average number of evaluations each bisection: 50616.0
+		9-th bisection
+			MRPS: 768
+			Average number of evaluations each bisection: 31856.0
+		10-th bisection
+			MRPS: 704
+			Average number of evaluations each bisection: 67372.8
+		Mean MRPS: 800.0
+		Std MRPS: 125.58
+		Mean number of evaluations: 71521.8
+		Std number of evaluations: 19004.0
+
+	- Problem size = 80
+		1-th bisection
+			MRPS: 4352
+			Average number of evaluations each bisection: 623641.6
+		2-th bisection
+			MRPS: 2048
+			Average number of evaluations each bisection: 136800.0
+		3-th bisection
+			MRPS: 2304
+			Average number of evaluations each bisection: 194099.2
+		4-th bisection
+			MRPS: 2816
+			Average number of evaluations each bisection: 433382.4
+		5-th bisection
+			MRPS: 2560
+			Average number of evaluations each bisection: 101376.0
+		6-th bisection
+			MRPS: 3328
+			Average number of evaluations each bisection: 498534.4
+		7-th bisection
+			MRPS: 2048
+			Average number of evaluations each bisection: 59520.0
+		8-th bisection
+			MRPS: 2176
+			Average number of evaluations each bisection: 342284.8
+		9-th bisection
+			MRPS: 3328
+			Average number of evaluations each bisection: 503859.2
+		10-th bisection
+			MRPS: 3328
+			Average number of evaluations each bisection: 490880.0
+		Mean MRPS: 2828.8
+		Std MRPS: 711.41
+		Mean number of evaluations: 338437.5
+		Std number of evaluations: 190286.25
+
+	- Problem size = 160
+		1-th bisection
+			This bisection cant be solved!
+		2-th bisection
+			This bisection cant be solved!
+		3-th bisection
+			This bisection cant be solved!
+		4-th bisection
+			This bisection cant be solved!
+		5-th bisection
+			This bisection cant be solved!
+		6-th bisection
+			This bisection cant be solved!
+		7-th bisection
+			This bisection cant be solved!
+		8-th bisection
+			This bisection cant be solved!
+		9-th bisection
+			This bisection cant be solved!
+		10-th bisection
+			This bisection cant be solved!
+	This problem size cant be solved!
+
+	Saving...
+	Saved record!
+
+- Evaluation = Concatenated Trap-5, Crossover = Uniform Crossover
+	- Problem size = 10
+		1-th bisection
+			MRPS: 416
+			Average number of evaluations each bisection: 25958.4
+		2-th bisection
+			MRPS: 544
+			Average number of evaluations each bisection: 32368.0
+		3-th bisection
+			MRPS: 544
+			Average number of evaluations each bisection: 31497.6
+		4-th bisection
+			MRPS: 544
+			Average number of evaluations each bisection: 35686.4
+		5-th bisection
+			MRPS: 448
+			Average number of evaluations each bisection: 17709.71
+		6-th bisection
+			MRPS: 416
+			Average number of evaluations each bisection: 26291.2
+		7-th bisection
+			MRPS: 448
+			Average number of evaluations each bisection: 24377.6
+		8-th bisection
+			MRPS: 416
+			Average number of evaluations each bisection: 25417.6
+		9-th bisection
+			MRPS: 192
+			Average number of evaluations each bisection: 2376.0
+		10-th bisection
+			MRPS: 544
+			Average number of evaluations each bisection: 30409.6
+		Mean MRPS: 451.2
+		Std MRPS: 102.65
+		Mean number of evaluations: 25208.8
+		Std number of evaluations: 8987.0
+
+	- Problem size = 20
+		1-th bisection
+			MRPS: 5120
+			Average number of evaluations each bisection: 437760.0
+		2-th bisection
+			MRPS: 3584
+			Average number of evaluations each bisection: 148650.67
+		3-th bisection
+			MRPS: 2048
+			Average number of evaluations each bisection: 62400.0
+		4-th bisection
+			MRPS: 4096
+			Average number of evaluations each bisection: 96000.0
+		5-th bisection
+			MRPS: 3584
+			Average number of evaluations each bisection: 218982.4
+		6-th bisection
+			MRPS: 2560
+			Average number of evaluations each bisection: 86016.0
+		7-th bisection
+			MRPS: 4352
+			Average number of evaluations each bisection: 522240.0
+		8-th bisection
+			MRPS: 3328
+			Average number of evaluations each bisection: 404352.0
+		9-th bisection
+			MRPS: 4352
+			Average number of evaluations each bisection: 537036.8
+		10-th bisection
+			MRPS: 6656
+			Average number of evaluations each bisection: 737484.8
+		Mean MRPS: 3968.0
+		Std MRPS: 1234.39
+		Mean number of evaluations: 325092.0
+		Std number of evaluations: 222231.78
+
+	- Problem size = 40
+		1-th bisection
+			This bisection cant be solved!
+		2-th bisection
+			This bisection cant be solved!
+		3-th bisection
+			This bisection cant be solved!
+		4-th bisection
+			This bisection cant be solved!
+		5-th bisection
+			This bisection cant be solved!
+		6-th bisection
+			This bisection cant be solved!
+		7-th bisection
+			This bisection cant be solved!
+		8-th bisection
+			This bisection cant be solved!
+		9-th bisection
+			This bisection cant be solved!
+		10-th bisection
+			This bisection cant be solved!
+	This problem size cant be solved!
+
+	- Problem size = 80
+	This problem size cant be solved!
+
+	- Problem size = 160
+	This problem size cant be solved!
+
+	Saving...
+	Saved record!
+
+
+|-----------------------------------DONE-----------------------------------|

@@ -1,0 +1,875 @@
+|--------------------------------MRPS RECORD--------------------------------|
+|-----------------------------------BEGIN-----------------------------------|
+
+- Algorithm = Genetic Algorithm, Objective value = test_accuracy, Dataset = cifar10-valid, Checkpoint = 200
+	- Finding the upper bound of MRPS
+		- Population size = 4
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 8
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 16
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 32
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 64
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 128
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				Can't find the best architecture!
+		- Population size = 256
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				Can't find the best architecture!
+		- Population size = 512
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		 The upper bound of MRPS: 512
+
+	- Finding the MRPS
+		- Population size = 384
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		- Population size = 320
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		- Population size = 288
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				Can't find the best architecture!
+
+	- Minimally required population size to find the best architecture: 320
+	Saving...
+	Saved record!
+
+- Algorithm = Genetic Algorithm, Objective value = test_accuracy, Dataset = cifar100, Checkpoint = 200
+	- Finding the upper bound of MRPS
+		- Population size = 4
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 8
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 16
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 32
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				Can't find the best architecture!
+		- Population size = 64
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				Can't find the best architecture!
+		- Population size = 128
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		 The upper bound of MRPS: 128
+
+	- Finding the MRPS
+		- Population size = 96
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		- Population size = 80
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		- Population size = 72
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				Can't find the best architecture!
+
+	- Minimally required population size to find the best architecture: 80
+	Saving...
+	Saved record!
+
+- Algorithm = Genetic Algorithm, Objective value = test_accuracy, Dataset = ImageNet16-120, Checkpoint = 200
+	- Finding the upper bound of MRPS
+		- Population size = 4
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 8
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 16
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 32
+			0-th seed
+				Can't find the best architecture!
+		- Population size = 64
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				Can't find the best architecture!
+		- Population size = 128
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				Can't find the best architecture!
+		- Population size = 256
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				The best architecture has been found!
+			22-th seed
+				The best architecture has been found!
+			23-th seed
+				The best architecture has been found!
+			24-th seed
+				The best architecture has been found!
+			25-th seed
+				The best architecture has been found!
+			26-th seed
+				The best architecture has been found!
+			27-th seed
+				The best architecture has been found!
+			28-th seed
+				The best architecture has been found!
+			29-th seed
+				The best architecture has been found!
+			30-th seed
+				The best architecture has been found!
+		 The upper bound of MRPS: 256
+
+	- Finding the MRPS
+		- Population size = 192
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				Can't find the best architecture!
+		- Population size = 224
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				Can't find the best architecture!
+		- Population size = 240
+			0-th seed
+				The best architecture has been found!
+			1-th seed
+				The best architecture has been found!
+			2-th seed
+				The best architecture has been found!
+			3-th seed
+				The best architecture has been found!
+			4-th seed
+				The best architecture has been found!
+			5-th seed
+				The best architecture has been found!
+			6-th seed
+				The best architecture has been found!
+			7-th seed
+				The best architecture has been found!
+			8-th seed
+				The best architecture has been found!
+			9-th seed
+				The best architecture has been found!
+			10-th seed
+				The best architecture has been found!
+			11-th seed
+				The best architecture has been found!
+			12-th seed
+				The best architecture has been found!
+			13-th seed
+				The best architecture has been found!
+			14-th seed
+				The best architecture has been found!
+			15-th seed
+				The best architecture has been found!
+			16-th seed
+				The best architecture has been found!
+			17-th seed
+				The best architecture has been found!
+			18-th seed
+				The best architecture has been found!
+			19-th seed
+				The best architecture has been found!
+			20-th seed
+				The best architecture has been found!
+			21-th seed
+				Can't find the best architecture!
+
+	- Minimally required population size to find the best architecture: 256
+	Saving...
+	Saved record!
+
+
+|-----------------------------------DONE-----------------------------------|

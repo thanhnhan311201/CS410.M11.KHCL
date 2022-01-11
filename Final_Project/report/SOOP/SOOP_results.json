@@ -1,0 +1,26 @@
+{
+      "cifar10-valid": {
+            "mrps": 320,
+            "best_arch": "|nor_conv_3x3~0|+|nor_conv_1x1~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_1x1~1|nor_conv_3x3~2|",
+            "highest_test_accuracy": 91.52,
+            "final_arch": "|nor_conv_3x3~0|+|nor_conv_1x1~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_1x1~1|nor_conv_3x3~2|",
+            "final_test_accuracy": 91.52,
+            "num_generations": 10
+      },
+      "cifar100": {
+            "mrps": 80,
+            "best_arch": "|nor_conv_3x3~0|+|nor_conv_3x3~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_3x3~1|nor_conv_3x3~2|",
+            "highest_test_accuracy": 73.51,
+            "final_arch": "|nor_conv_3x3~0|+|nor_conv_3x3~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_3x3~1|nor_conv_3x3~2|",
+            "final_test_accuracy": 73.51,
+            "num_generations": 10
+      },
+      "ImageNet16-120": {
+            "mrps": 256,
+            "best_arch": "|nor_conv_1x1~0|+|nor_conv_1x1~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_3x3~1|nor_conv_3x3~2|",
+            "highest_test_accuracy": 47.31,
+            "final_arch": "|nor_conv_1x1~0|+|nor_conv_1x1~0|nor_conv_3x3~1|+|skip_connect~0|nor_conv_3x3~1|nor_conv_3x3~2|",
+            "final_test_accuracy": 47.31,
+            "num_generations": 8
+      }
+}
